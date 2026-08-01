@@ -15,6 +15,7 @@ Source: GitHub Actions** if it isn't already.
 
 ## Updating links
 
-The social links in `index.html` (Steam, itch.io, YouTube, Instagram,
-Discord) currently point to placeholder/generic URLs — swap them for the
-studio's real profile URLs once available.
+The social links in `index.html` point to the studio's real profiles
+(itch.io, YouTube, Instagram, Discord). The Steam link still points to the
+generic Steam homepage as a placeholder — swap it for the studio's store
+page once available.
